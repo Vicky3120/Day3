@@ -10,7 +10,6 @@ int main() {
         printf("Error opening file for writing.\n");
         return 1;
     }
-
     for (i = 0; i < n; i++) {
         printf("Enter item %d: ", i + 1);
         scanf("%s", grs[i]);

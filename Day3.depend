@@ -1,6 +1,13 @@
 # depslib dependency file v1.0
-1741405425 source:c:\users\student\desktop\codes\day3\2.c
+1741407562 source:c:\users\student\desktop\codes\day3\2.c
 	<stdio.h>
 
-1741405484 source:c:\users\student\desktop\codes\day3\main.c
+1741407765 source:c:\users\student\desktop\codes\day3\main.c
+	<stdio.h>
+
+1741407671 source:c:\users\student\desktop\codes\day3\up2.c
+	<stdio.h>
+
+1741407752 source:c:\users\student\desktop\codes\day3\up3.c
+	<stdio.h>
 
